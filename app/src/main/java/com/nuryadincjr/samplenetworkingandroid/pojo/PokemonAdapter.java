@@ -1,4 +1,4 @@
-package com.nuryadincjr.samplenetworkingandroid.data;
+package com.nuryadincjr.samplenetworkingandroid.pojo;
 
 import android.content.Context;
 import android.view.LayoutInflater;

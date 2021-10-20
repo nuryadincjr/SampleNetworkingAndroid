@@ -16,6 +16,5 @@ public class ResultsItem {
 
     public String getUrl() {
         return url;
-
     }
 }

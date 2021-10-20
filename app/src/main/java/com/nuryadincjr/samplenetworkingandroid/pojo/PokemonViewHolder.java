@@ -1,4 +1,4 @@
-package com.nuryadincjr.samplenetworkingandroid.data;
+package com.nuryadincjr.samplenetworkingandroid.pojo;
 
 import androidx.recyclerview.widget.RecyclerView;
 

@@ -7,7 +7,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.GridLayoutManager;
 
-import com.nuryadincjr.samplenetworkingandroid.data.PokemonAdapter;
+import com.nuryadincjr.samplenetworkingandroid.pojo.PokemonAdapter;
 import com.nuryadincjr.samplenetworkingandroid.databinding.ActivityMainBinding;
 import com.nuryadincjr.samplenetworkingandroid.model.BaseResponse;
 import com.nuryadincjr.samplenetworkingandroid.model.ResultsItem;
